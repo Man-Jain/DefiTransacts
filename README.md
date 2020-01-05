@@ -10,6 +10,7 @@ Users can install the plugin, and it will create a saving account in their metam
 * Email :- manank321@gmail.com
 * Address :- 0x4Db928f96c8b6581a79557B269D9AD35935D3601
 * Is it okay to communicate furthur ? yes
+* Telegram - @Man-Jain
 
 ### Sachin Mittal 
 * Email :- sachin.narenmittal@gmail.com
